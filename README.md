@@ -1,6 +1,6 @@
 # html-landings
 
-**[DeepSea - Portfolio](https://github.com/deepsea-portfolio)**
+**[DeepSea - Portfolio](https://github.com/sy-dot/deepsea-portfolio)**
 
 * * *
 
